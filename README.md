@@ -1,2 +1,2 @@
 # dh
-# Direitos Humandos
+# Direitos Humanos
